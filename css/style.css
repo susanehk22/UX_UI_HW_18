@@ -176,7 +176,6 @@ footer {
 
 .homeButton {
     float: right;
-    position: absolute;
     left: 1705px;
     z-index: 1;
 }
